@@ -1,3 +1,3 @@
 <?php
-header('Location: all-products.php');
+header('Location: /admin/all-products.php');
 exit;

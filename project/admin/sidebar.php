@@ -4,6 +4,7 @@ $navGroups = [
     'Products' => [
         ['All products', 'all-products.php', 'fa-boxes-stacked'],
         ['Add product', 'add-product.php', 'fa-circle-plus'],
+        ['Categories', 'categories.php', 'fa-tags'],
     ],
     'Orders' => [
         ['Pending', 'pending.php', 'fa-clock'],
